@@ -1,0 +1,7 @@
+{"ts": 1763740010.0, "iso_ts": "2025-11-21T15:46:50.000000Z", "uid": "D00012", "id.orig_h": "10.20.30.55", "id.resp_h": "8.8.8.8", "id.resp_p": 53, "proto": "udp", "query": "c2-beacon.darkops-sync.example"}
+{"ts": 1763740070.0, "iso_ts": "2025-11-21T15:47:50.000000Z", "uid": "D00013", "id.orig_h": "10.20.30.55", "id.resp_h": "8.8.8.8", "id.resp_p": 53, "proto": "udp", "query": "c2-beacon.darkops-sync.example"}
+{"ts": 1763740130.0, "iso_ts": "2025-11-21T15:48:50.000000Z", "uid": "D00014", "id.orig_h": "10.20.30.55", "id.resp_h": "8.8.8.8", "id.resp_p": 53, "proto": "udp", "query": "c2-beacon.darkops-sync.example"}
+{"ts": 1763740190.0, "iso_ts": "2025-11-21T15:49:50.000000Z", "uid": "D00015", "id.orig_h": "10.20.30.55", "id.resp_h": "8.8.8.8", "id.resp_p": 53, "proto": "udp", "query": "c2-beacon.darkops-sync.example"}
+{"ts": 1763740250.0, "iso_ts": "2025-11-21T15:50:50.000000Z", "uid": "D00016", "id.orig_h": "10.20.30.55", "id.resp_h": "8.8.8.8", "id.resp_p": 53, "proto": "udp", "query": "c2-beacon.darkops-sync.example"}
+{"ts": 1763740310.0, "iso_ts": "2025-11-21T15:51:50.000000Z", "uid": "D00017", "id.orig_h": "10.20.30.55", "id.resp_h": "8.8.8.8", "id.resp_p": 53, "proto": "udp", "query": "c2-beacon.darkops-sync.example"}
+{"ts": 1763740015.0, "iso_ts": "2025-11-21T15:46:55.000000Z", "uid": "D00018", "id.orig_h": "10.20.30.15", "id.resp_h": "8.8.8.8", "id.resp_p": 53, "proto": "udp", "query": "updates.ubuntu.com"}

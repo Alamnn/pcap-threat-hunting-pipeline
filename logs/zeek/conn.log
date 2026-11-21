@@ -1,0 +1,15 @@
+{"ts": 1763740000.0, "iso_ts": "2025-11-21T15:46:40.000000Z", "uid": "C00000", "id.orig_h": "10.20.30.99", "id.orig_p": 45000, "id.resp_h": "10.20.30.10", "id.resp_p": 21, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.05, "iso_ts": "2025-11-21T15:46:40.050000Z", "uid": "C00001", "id.orig_h": "10.20.30.99", "id.orig_p": 45001, "id.resp_h": "10.20.30.10", "id.resp_p": 22, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.1, "iso_ts": "2025-11-21T15:46:40.100000Z", "uid": "C00002", "id.orig_h": "10.20.30.99", "id.orig_p": 45002, "id.resp_h": "10.20.30.10", "id.resp_p": 23, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.15, "iso_ts": "2025-11-21T15:46:40.150000Z", "uid": "C00003", "id.orig_h": "10.20.30.99", "id.orig_p": 45003, "id.resp_h": "10.20.30.10", "id.resp_p": 25, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.2, "iso_ts": "2025-11-21T15:46:40.200000Z", "uid": "C00004", "id.orig_h": "10.20.30.99", "id.orig_p": 45004, "id.resp_h": "10.20.30.10", "id.resp_p": 80, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.25, "iso_ts": "2025-11-21T15:46:40.250000Z", "uid": "C00005", "id.orig_h": "10.20.30.99", "id.orig_p": 45005, "id.resp_h": "10.20.30.10", "id.resp_p": 110, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.3, "iso_ts": "2025-11-21T15:46:40.300000Z", "uid": "C00006", "id.orig_h": "10.20.30.99", "id.orig_p": 45006, "id.resp_h": "10.20.30.10", "id.resp_p": 139, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.35, "iso_ts": "2025-11-21T15:46:40.350000Z", "uid": "C00007", "id.orig_h": "10.20.30.99", "id.orig_p": 45007, "id.resp_h": "10.20.30.10", "id.resp_p": 443, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.4, "iso_ts": "2025-11-21T15:46:40.400000Z", "uid": "C00008", "id.orig_h": "10.20.30.99", "id.orig_p": 45008, "id.resp_h": "10.20.30.10", "id.resp_p": 445, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.45, "iso_ts": "2025-11-21T15:46:40.450000Z", "uid": "C00009", "id.orig_h": "10.20.30.99", "id.orig_p": 45009, "id.resp_h": "10.20.30.10", "id.resp_p": 3306, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.5, "iso_ts": "2025-11-21T15:46:40.500000Z", "uid": "C00010", "id.orig_h": "10.20.30.99", "id.orig_p": 45010, "id.resp_h": "10.20.30.10", "id.resp_p": 3389, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740000.55, "iso_ts": "2025-11-21T15:46:40.550000Z", "uid": "C00011", "id.orig_h": "10.20.30.99", "id.orig_p": 45011, "id.resp_h": "10.20.30.10", "id.resp_p": 8080, "proto": "tcp", "conn_state": "S0"}
+{"ts": 1763740025.0, "iso_ts": "2025-11-21T15:47:05.000000Z", "uid": "C00019", "id.orig_h": "10.20.30.55", "id.orig_p": 51000, "id.resp_h": "198.51.100.77", "id.resp_p": 80, "proto": "tcp", "conn_state": "SF"}
+{"ts": 1763740030.0, "iso_ts": "2025-11-21T15:47:10.000000Z", "uid": "C00020", "id.orig_h": "10.20.30.99", "id.orig_p": 51001, "id.resp_h": "10.20.30.10", "id.resp_p": 80, "proto": "tcp", "conn_state": "SF"}
+{"ts": 1763740095.0, "iso_ts": "2025-11-21T15:48:15.000000Z", "uid": "C00021", "id.orig_h": "10.20.30.55", "id.orig_p": 51002, "id.resp_h": "198.51.100.77", "id.resp_p": 80, "proto": "tcp", "conn_state": "SF"}

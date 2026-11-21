@@ -1,0 +1,19 @@
+name: pcap-threat-hunting-pipeline
+
+services:
+  zeek:
+    image: zeek/zeek:6.2.1
+    container_name: hunt-zeek
+    working_dir: /logs
+    volumes:
+      - ./input_pcaps:/pcaps:ro
+      - ./logs/zeek:/logs
+    command: ["zeek", "-C", "-r", "/pcaps/sample.pcap", "LogAscii::use_json=T"]
+
+  suricata:
+    image: jasonish/suricata:7.0.4
+    container_name: hunt-suricata
+    volumes:
+      - ./input_pcaps:/pcaps:ro
+      - ./logs/suricata:/var/log/suricata
+    command: ["-r", "/pcaps/sample.pcap", "-l", "/var/log/suricata"]
